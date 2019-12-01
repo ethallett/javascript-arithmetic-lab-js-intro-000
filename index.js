@@ -17,7 +17,7 @@ function dec(a) {
   return(a-=1);
 }
 function makeInt(a) {
-  parseInt('a',10);
+  parseInt(a,10);
   parseInt('0x2328', 0);
   parseInt("nonsense", 10);
 }
