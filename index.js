@@ -16,7 +16,7 @@ function inc(a) {
 function dec(a) {
   return(a-=1);
 }
-function makeInt(n, base) {
+function makeInt() {
   return(parseInt('n',10));
   return(parseInt('0x2328', 0));
   return(parseInt("nonsense", 10));
