@@ -24,7 +24,5 @@ function makeInt(n, base) {
 
 function preserveDecimal(a) {
  return(parseFloat(2.222));
- if(isNAN(a)) {
- return(false);
- }
+ return(preserveDecimal('sldkjflksjf'));
  }
