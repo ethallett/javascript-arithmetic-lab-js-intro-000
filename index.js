@@ -17,9 +17,9 @@ function dec(a) {
   return(a-=1);
 }
 function makeInt(a, base) {
-  parseInt('a',10);
-  parseInt('0x2328', 10);
-  parseInt("nonsense", 10);
+  return(parseInt('a',10));
+  return(parseInt('0x2328', 10));
+  return(parseInt("nonsense", 10));
 }
 
 function preserveDecimal(a) {
