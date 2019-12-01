@@ -18,11 +18,7 @@ function dec(a) {
 }
 function makeInt(a) {
   return(parseInt('n',10));
-  parseInt('0', 10);
-  return(parseInt("nonsense", 10));
 }
 
 function preserveDecimal(a) {
- return(parseFloat(2.222));
- return(parseFloat('sldkjflksjf'));
- }
+
