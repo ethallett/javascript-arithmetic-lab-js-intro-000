@@ -16,9 +16,9 @@ function inc(a) {
 function dec(a) {
   return(a-=1);
 }
-function makeInt('a',10) {
-  const parsed = parseInt('a')
-  parseInt('a',10);
+function makeInt(a, 10) {
+  const parsed = parseInt(a)
+  parseInt(a,10);
   parseInt('0x2328', 0);
   parseInt("nonsense", 10);
 }
