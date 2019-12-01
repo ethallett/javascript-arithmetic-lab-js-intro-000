@@ -18,7 +18,7 @@ function dec(a) {
 }
 function makeInt() {
   return(parseInt('n',10));
-  return(parseInt('0x2328', 0));
+  return(parseInt(0));
   return(parseInt("nonsense", 10));
 }
 
