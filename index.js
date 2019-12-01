@@ -23,7 +23,7 @@ function makeInt(a) {
 function preserveDecimal(a) {
   return(parseFloat('2.222'));
   parseFloat('sldkjflksjf');
-   if(preserveDecimal('sldkjflksjf') = NaN) {
+   if('sldkjflksjf') = NaN) {
      return(true);
    }
 }
