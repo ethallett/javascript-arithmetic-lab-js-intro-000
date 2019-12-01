@@ -24,6 +24,6 @@ function preserveDecimal(a) {
   return(parseFloat('2.222'));
   parseFloat('sldkjflksjf');
    if('sldkjflksjf' === NaN) {
-     return(true);
+     return(false);
    }
 }
