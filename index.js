@@ -17,7 +17,8 @@ function dec(a) {
   return(a-=1);
 }
 function makeInt(a) {
-  return(parseInt('n',10));
+  var a = (Math.floor(Math.random() * 1000)
+  return(parseInt('a',10));
 }
 
 function preserveDecimal(a) {
