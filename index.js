@@ -21,9 +21,5 @@ function makeInt(a) {
 }
 
 function preserveDecimal(a) {
-  return(parseFloat('2.222'));
-  var a = parseFloat('sldkjflksjf');
-  if(isNAN(a)) {
-    return(true);
-  }
+  return(parseFloat(a));
 }
