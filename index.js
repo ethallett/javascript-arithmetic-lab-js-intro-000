@@ -17,12 +17,14 @@ function dec(a) {
   return(a-=1);
 }
 function makeInt(a) {
-  parseInt(a,10);
+  const parsed = parseInt('a')
+  parseInt('a',10);
   parseInt('0x2328', 0);
   parseInt("nonsense", 10);
 }
 
 function preserveDecimal(a) {
  return(parseFloat(2.222));
+ if('a' === NaN)
  return(parseFloat("sldkjflksjf"));
  }
